@@ -14,6 +14,7 @@ package.json
 
 # Ignore docs
 docs/
+storefront/
 
 # Ignore server-specific dev files
 server/.bundle
